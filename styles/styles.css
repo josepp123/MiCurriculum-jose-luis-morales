@@ -1,3 +1,121 @@
-body{
+#profileImage{
+    height: 150px; /* Cambiar altura */
+    width: 150px; /* Cambiar el ancho */
+    border-radius: 100px; /* Bordes redondos */
+    border: 5px solid rgb(199, 127, 127)
     
 }
+body {
+  background-image: url('https://png.pngtree.com/background/20231016/original/pngtree-virtual-space-takes-flight-3d-illustration-of-program-code-blocks-with-picture-image_5583882.jpg') ;
+  background-repeat:no-repeat ;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-right: 50px;
+  padding-left: 50px;
+  color:white;
+}
+
+a {
+  text-decoration: none; /* Decoración de texto */
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  color: rgb(255, 255, 255);
+  text-align: justify;
+}
+
+.icon {
+  height: 15px; /* Cambiar altura */
+  width: 25px; /* Cambiar el ancho */
+  object-fit: cover;
+}
+
+
+#personalData {
+  background-image: linear-gradient(to left,#776388, #632359);
+  opacity: 0.9;
+  border-radius: 25px;
+  margin: 25px;
+  padding-left: 50px; /* en izquierda */
+  padding-right: 50px; /* en derecha */
+  padding-bottom: 15px; /* abajo */
+  padding-top: 15px; /* arriba */
+  border: 5px solid rgb(0, 0, 0);
+}
+
+#hobbies
+{
+    background-image: linear-gradient(to left,#6b6b7a, #184080);
+    opacity: 0.9;
+    border-radius: 25px;
+    margin: 25px;
+    padding-left: 50px; /* en izquierda */
+    padding-right: 50px; /* en derecha */
+    padding-bottom: 15px; /* abajo */
+    padding-top: 15px; /* arriba */
+    border: 5px solid rgb(0, 0, 0)
+    
+  }
+#experience
+{
+    background-image: linear-gradient(to left,#b7bb86, #3d5204);
+    opacity: 0.9;
+    border-radius: 25px;
+    margin: 25px;
+    padding-left: 50px; /* en izquierda */
+    padding-right: 50px; /* en derecha */
+    padding-bottom: 15px; /* abajo */
+    padding-top: 15px; /* arriba */
+    border: 5px solid rgb(0, 0, 0)
+  }
+  #Habilidades
+  {
+    background-image: linear-gradient(to left,#a7ceac, #07642b);
+    opacity: 0.9;
+    border-radius: 25px;
+    margin: 25px;
+    padding-left: 50px; /* en izquierda */
+    padding-right: 50px; /* en derecha */
+    padding-bottom: 15px; /* abajo */
+    padding-top: 15px; /* arriba */
+    border: 5px solid rgb(0, 0, 0)
+  }
+  #idioma{
+    background-image: linear-gradient(to left,#667b7c, #074e64);
+    opacity: 0.9;
+    border-radius: 25px;
+    margin: 25px;
+    padding-left: 50px; /* en izquierda */
+    padding-right: 50px; /* en derecha */
+    padding-bottom: 15px; /* abajo */
+    padding-top: 15px; /* arriba */
+    border: 5px solid rgb(0, 0, 0)
+  }
+  a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+  }
+  
+  a:link {
+    color: #130153;
+  }
+  a:visited {
+    color: #030149;
+  }
+  a:focus {
+    border-bottom: 1px solid;
+    background: #726209;
+  }
+  a:hover {
+    border-bottom: 1px solid;
+    background: #4cd5ff;
+  }
+  a:active {
+    background: #011453;
+    color: #8a8cff;
+  }
