@@ -4,7 +4,6 @@ CV para proyecto DEV.F
 **
 
 git status => para saber el estado de mi repositorio en este momento
-
 git add . => para agregar modificaciones y cambios de mi repositorio al staging area
 
 git config user.name josep123  => el nombre que tienen en git hub

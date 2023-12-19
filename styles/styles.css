@@ -47,9 +47,22 @@ p {
   border: 5px solid rgb(0, 0, 0);
 }
 
-#hobbies
+#Bibliografia
 {
     background-image: linear-gradient(to left,#6b6b7a, #184080);
+    opacity: 0.9;
+    border-radius: 25px;
+    margin: 25px;
+    padding-left: 50px; /* en izquierda */
+    padding-right: 50px; /* en derecha */
+    padding-bottom: 15px; /* abajo */
+    padding-top: 15px; /* arriba */
+    border: 5px solid rgb(0, 0, 0)
+    
+  }
+#hobbies
+{
+    background-image: linear-gradient(to left,#7a6b6b, #801818);
     opacity: 0.9;
     border-radius: 25px;
     margin: 25px;
