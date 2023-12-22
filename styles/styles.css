@@ -1,8 +1,8 @@
 #profileImage{
-    height: 150px; /* Cambiar altura */
-    width: 150px; /* Cambiar el ancho */
+    height: 170px; /* Cambiar altura */
+    width: 140px; /* Cambiar el ancho */
     border-radius: 100px; /* Bordes redondos */
-    border: 5px solid rgb(199, 127, 127)
+    border: 5px solid rgb(62, 130, 139)
     
 }
 body {
@@ -29,8 +29,8 @@ p {
 }
 
 .icon {
-  height: 15px; /* Cambiar altura */
-  width: 25px; /* Cambiar el ancho */
+  height: 20px; /* Cambiar altura */
+  width: 30px; /* Cambiar el ancho */
   object-fit: cover;
 }
 
@@ -115,20 +115,20 @@ p {
   }
   
   a:link {
-    color: #130153;
-  }
+    color: #08ada5;
+  } 
   a:visited {
-    color: #030149;
+    color: #048a9481;
   }
   a:focus {
     border-bottom: 1px solid;
-    background: #726209;
+    background: #015766;
   }
   a:hover {
     border-bottom: 1px solid;
-    background: #4cd5ff;
+    background: #e90f0f69;
   }
   a:active {
-    background: #011453;
+    background: #e7fd229c;
     color: #8a8cff;
   }
